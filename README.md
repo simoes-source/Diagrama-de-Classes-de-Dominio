@@ -18,7 +18,7 @@ Operadora de Cartão de Crédito não entrou como classe: é ator externo, fora 
 
 ## Diagrama
 
-<img width="1450" height="1151" alt="WhatsApp Image 2026-09-20 at 16 51 04" src="https://github.com/user-attachments/assets/79d6f743-3206-4fe8-9003-e06ea09d1f6d" />
+<img width="1450" height="1151" alt="WhatsApp Image 2026-09-20 at 16 51 04" src="https://github.com/user-attachments/assets/91dd0105-e15e-49e4-abdc-2b0fac45f329" />
 
 ## Associações
 
