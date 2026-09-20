@@ -2,7 +2,7 @@
 
 ## Participantes 
 
-João Pedro Nascimento Simões - 10427517
+João Pedro Nascimento Simões - 10427517  
 Renan Dos Santos Jesus - 10748027
 
 Caso de uso: **Assinar Plano de Refeições**
